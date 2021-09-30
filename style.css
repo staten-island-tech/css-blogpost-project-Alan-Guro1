@@ -2,8 +2,7 @@
   text-align: center;
   font-weight: bolder;
   font-size: 50px;
-  position: absolute;
-  top: 100px;
+  margin-top: 200px;
   left: 1450px;
   color: #66fcf1;
 }
