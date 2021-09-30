@@ -1,13 +1,74 @@
-body {
-  background-color: #0b0c10;
+.title {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  position: absolute;
+  top: 100px;
+  left: 1450px;
+  color: #66fcf1;
 }
-h2 {
+.blog {
+  background-color: #0b0c10;
+  padding: 100px;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: solid #1f2833;
+}
+span {
   color: #c5c6c7;
 }
-.top-header {
-  color: aquamarine;
-}
-.top-header {
+.header {
+  color: #66fcf1;
+  font-size: 50px;
   text-align: center;
-  margin-bottom: 150px;
+  margin: 0px;
+}
+#subheader {
+  margin-bottom: 20px;
+  font-size: 45px;
+}
+.image {
+  border: solid #c5c6c7;
+  padding: 400px;
+}
+.link1 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  margin-left: 1300px;
+}
+.link2 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  margin-left: 1125px;
+}
+.link3 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  margin-left: 900px;
+}
+
+.preview-text {
+  font-size: 40px;
+  color: #c5c6c7;
+  font-family: "PT Sans", sans-serif;
+  text-align: center;
+}
+
+#Whalen-Siths {
+  background-image: url(https://3.files.edl.io/aeb1/20/12/02/154937-46cc468f-b7f4-4bb3-945e-3265bdb605d4.jpg);
+  background-position: center;
+}
+#Whalen-Law {
+  background-image: url(https://www.goodwinlaw.com/-/media/images/people/employee/w/whalen_p_michael.jpg);
+  background-position: center;
+}
+
+#Whalen-Finance {
+  background-image: url(https://www.voterfocus.com/CampaignFinance/photo_palmbeach/cand_587.jpg);
+  background-position: center;
+}
+body {
+  background-color: #0b0c10;
+  font-family: "Lato", sans-serif;
 }
